@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mulMatrixV3", "mulMatrixV3\mulMatrixV3.vcxproj", "{9AE9C7FF-3FF2-41C6-BE6E-60488217E469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE9C7FF-3FF2-41C6-BE6E-60488217E469}.Debug|x64.ActiveCfg = Debug|x64
+		{9AE9C7FF-3FF2-41C6-BE6E-60488217E469}.Debug|x64.Build.0 = Debug|x64
+		{9AE9C7FF-3FF2-41C6-BE6E-60488217E469}.Release|x64.ActiveCfg = Release|x64
+		{9AE9C7FF-3FF2-41C6-BE6E-60488217E469}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5955350-6AA6-4FAD-8634-E81F06D28619}
+	EndGlobalSection
+EndGlobal
